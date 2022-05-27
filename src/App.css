@@ -86,3 +86,22 @@ transform: skewY(-5deg);
   font-size: large;
   display: inline;
 }
+
+.formulario {
+  width: 90%;
+  height: auto;
+  background: #91B7C7;
+  text-align: center;
+  margin:5% auto;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+ .titleSeccion {
+  color: #FFF8F0;
+  font-family: 'BIZ UDPMincho' serif;
+  font-size: xx-large;
+  text-align: center;
+  font-weight: bolder;
+  border-bottom: 2px #FFF8F0 dashed;
+}

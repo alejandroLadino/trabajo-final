@@ -7,6 +7,7 @@ import Experiencia from './components/Experiencia';
 import Educacion from './components/Educacion';
 import Aptitudes from './components/Aptitudes';
 import Lenguas from './components/Lenguas';
+import Formulario from './components/Formulario';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
     <Educacion/>
     <Aptitudes/>
     <Lenguas/>
+    <Formulario/>
     </div>
   );
 }
